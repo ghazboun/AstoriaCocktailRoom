@@ -1,0 +1,70 @@
+body{
+font-family: 'Playfair Display', serif;
+text-align: center;
+
+}
+
+h6{
+  font-family: 'Cutive Mono', monospace;
+
+}
+
+footer p{
+  font-family: 'Cutive Mono', monospace;
+  font-size: 1rem;
+  font-weight: bolder;
+  color: #605d5d;
+}
+
+.copyright{
+  font-size: 0.7rem;
+}
+
+.backgroundImage{
+  width: 100%;
+  height: auto;
+  position: relative;
+}
+.margin{
+  margin: 10%;
+  font-size: 2rem;
+  color: #605d5d;
+}
+
+.whatsapp{
+  color: #075e54;
+  font-size:33px;
+
+}
+
+.facebook{
+color: #4267B2;
+font-size:33px;
+
+}
+
+.instagram{
+  font-size:33px;
+  background: #d6249f;
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a{
+  text-decoration: none !important;
+}
+
+.blackBox{
+  position: relative;
+  z-index: 1;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #171717;
+  border: 5px solid;
+  border-color: #DFB14E;
+  width: 40%;
+  border-radius: 10px;
+  font-family: 'Cutive Mono', monospace;
+
+}
